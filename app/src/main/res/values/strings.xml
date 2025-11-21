@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">ResiSolve</string>
+    <string name="app_name_full">ResiSolve</string>
+    <string name="community_issue_tracking">Community Issue Tracking</string>
+
+    <!-- Login -->
+    <string name="login_as">Login As</string>
+    <string name="resident">Resident</string>
+    <string name="admin">Admin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Profile Creation -->
+    <string name="create_resident_profile">Create Resident Profile</string>
+    <string name="create_admin_profile">Create Admin Profile</string>
+    <string name="complete_profile_to_continue">Complete your profile to continue</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="street_address">Street address</string>
+    <string name="society_name_required">Society Name (Required)</string>
+    <string name="society_name_links_community">Society name links you to your community admin</string>
+    <string name="flat_apartment_number">Flat/Apartment Number</string>
+    <string name="email_optional">Email (Optional)</string>
+    <string name="emergency_contact_optional">Emergency Contact (Optional)</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="profile_redirect_message">After creating profile, you\'ll be redirected to login</string>
+
+    <!-- Common -->
+    <string name="app_logo">App Logo</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Issues -->
+    <string name="my_issues">My Issues</string>
+    <string name="all_issues">All Issues</string>
+    <string name="raise_issue">Raise Issue</string>
+    <string name="issue_title">Issue Title</string>
+    <string name="issue_description">Description</string>
+    <string name="category">Category</string>
+    <string name="priority">Priority</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="location">Location/Area</string>
+    <string name="publish_issue">Publish Issue</string>
+
+    <!-- Status -->
+    <string name="received">Received</string>
+    <string name="in_progress">In Progress</string>
+    <string name="resolved">Resolved</string>
+    <string name="closed">Closed</string>
+
+    <!-- Categories -->
+    <string name="maintenance">Maintenance</string>
+    <string name="security">Security</string>
+    <string name="parking">Parking</string>
+    <string name="noise">Noise</string>
+    <string name="cleanliness">Cleanliness</string>
+    <string name="amenities">Amenities</string>
+    <string name="other">Other</string>
+
+    <!-- Menu -->
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="menu">Menu</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="app_settings">App Settings</string>
+    <string name="rate_app">Rate the App</string>
+    <string name="notifications">Notifications</string>
+
+    <!-- Messages -->
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="logout_success">Successfully logged out</string>
+    <string name="issue_published">Issue Published!</string>
+    <string name="profile_created">Profile Created!</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    <string name="error_occurred">An error occurred. Please try again.</string>
+    <string name="fill_all_fields">Please fill all required fields</string>
+    <string name="invalid_email">Please enter a valid email</string>
+    <string name="invalid_password">Password must be at least 6 characters</string>
+
+</resources>
